@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/ldt-rearrange-prebase/teach/static/css/main.85d8db16.css",
+    "main.js": "/biycr-builds/ldt-rearrange-prebase/teach/static/js/main.d6207e1c.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/ldt-rearrange-prebase/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/ldt-rearrange-prebase/teach/index.html",
+    "main.85d8db16.css.map": "/biycr-builds/ldt-rearrange-prebase/teach/static/css/main.85d8db16.css.map",
+    "main.d6207e1c.js.map": "/biycr-builds/ldt-rearrange-prebase/teach/static/js/main.d6207e1c.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/ldt-rearrange-prebase/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d8db16.css",
+    "static/js/main.d6207e1c.js"
+  ]
+}
