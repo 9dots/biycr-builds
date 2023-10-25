@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/playtesting-october-2023/teach/static/css/main.b6f8d730.css",
+    "main.js": "/biycr-builds/playtesting-october-2023/teach/static/js/main.c819951b.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/playtesting-october-2023/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/playtesting-october-2023/teach/index.html",
+    "main.b6f8d730.css.map": "/biycr-builds/playtesting-october-2023/teach/static/css/main.b6f8d730.css.map",
+    "main.c819951b.js.map": "/biycr-builds/playtesting-october-2023/teach/static/js/main.c819951b.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/playtesting-october-2023/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8d730.css",
+    "static/js/main.c819951b.js"
+  ]
+}
