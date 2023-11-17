@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/one-click-ui-test-sequence/teach/static/css/main.8aac5b76.css",
+    "main.js": "/biycr-builds/one-click-ui-test-sequence/teach/static/js/main.04b2eb67.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/one-click-ui-test-sequence/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/one-click-ui-test-sequence/teach/index.html",
+    "main.8aac5b76.css.map": "/biycr-builds/one-click-ui-test-sequence/teach/static/css/main.8aac5b76.css.map",
+    "main.04b2eb67.js.map": "/biycr-builds/one-click-ui-test-sequence/teach/static/js/main.04b2eb67.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/one-click-ui-test-sequence/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aac5b76.css",
+    "static/js/main.04b2eb67.js"
+  ]
+}
