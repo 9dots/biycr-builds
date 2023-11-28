@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/demo-shorter-safe-anim-200/teach/static/css/main.b6f8d730.css",
+    "main.js": "/biycr-builds/demo-shorter-safe-anim-200/teach/static/js/main.f8dc00db.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/demo-shorter-safe-anim-200/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/demo-shorter-safe-anim-200/teach/index.html",
+    "main.b6f8d730.css.map": "/biycr-builds/demo-shorter-safe-anim-200/teach/static/css/main.b6f8d730.css.map",
+    "main.f8dc00db.js.map": "/biycr-builds/demo-shorter-safe-anim-200/teach/static/js/main.f8dc00db.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/demo-shorter-safe-anim-200/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8d730.css",
+    "static/js/main.f8dc00db.js"
+  ]
+}
