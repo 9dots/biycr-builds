@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/demo-parallel-safe-300/teach/static/css/main.b6f8d730.css",
+    "main.js": "/biycr-builds/demo-parallel-safe-300/teach/static/js/main.717b10ce.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/demo-parallel-safe-300/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/demo-parallel-safe-300/teach/index.html",
+    "main.b6f8d730.css.map": "/biycr-builds/demo-parallel-safe-300/teach/static/css/main.b6f8d730.css.map",
+    "main.717b10ce.js.map": "/biycr-builds/demo-parallel-safe-300/teach/static/js/main.717b10ce.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/demo-parallel-safe-300/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8d730.css",
+    "static/js/main.717b10ce.js"
+  ]
+}
