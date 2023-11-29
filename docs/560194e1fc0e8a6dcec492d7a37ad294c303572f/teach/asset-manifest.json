@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/static/css/main.b6f8d730.css",
+    "main.js": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/static/js/main.5dc4b9e3.js",
+    "static/js/512.9b2ae13f.chunk.js": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/static/js/512.9b2ae13f.chunk.js",
+    "index.html": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/index.html",
+    "main.b6f8d730.css.map": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/static/css/main.b6f8d730.css.map",
+    "main.5dc4b9e3.js.map": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/static/js/main.5dc4b9e3.js.map",
+    "512.9b2ae13f.chunk.js.map": "/biycr-builds/560194e1fc0e8a6dcec492d7a37ad294c303572f/teach/static/js/512.9b2ae13f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8d730.css",
+    "static/js/main.5dc4b9e3.js"
+  ]
+}
