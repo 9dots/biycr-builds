@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/update-stack/teach/static/css/main.b6f8d730.css",
+    "main.js": "/biycr-builds/update-stack/teach/static/js/main.10f3e52f.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/update-stack/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/update-stack/teach/index.html",
+    "main.b6f8d730.css.map": "/biycr-builds/update-stack/teach/static/css/main.b6f8d730.css.map",
+    "main.10f3e52f.js.map": "/biycr-builds/update-stack/teach/static/js/main.10f3e52f.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/update-stack/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8d730.css",
+    "static/js/main.10f3e52f.js"
+  ]
+}
