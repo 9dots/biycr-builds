@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/lcr08-b/teach/static/css/main.b6f8d730.css",
+    "main.js": "/biycr-builds/lcr08-b/teach/static/js/main.aa979591.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/lcr08-b/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/lcr08-b/teach/index.html",
+    "main.b6f8d730.css.map": "/biycr-builds/lcr08-b/teach/static/css/main.b6f8d730.css.map",
+    "main.aa979591.js.map": "/biycr-builds/lcr08-b/teach/static/js/main.aa979591.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/lcr08-b/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8d730.css",
+    "static/js/main.aa979591.js"
+  ]
+}
