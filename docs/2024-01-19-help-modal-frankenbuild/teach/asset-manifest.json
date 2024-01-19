@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/static/css/main.fbec88ea.css",
+    "main.js": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/static/js/main.082ad94c.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/index.html",
+    "main.fbec88ea.css.map": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/static/css/main.fbec88ea.css.map",
+    "main.082ad94c.js.map": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/static/js/main.082ad94c.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/2024-01-19-help-modal-frankenbuild/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbec88ea.css",
+    "static/js/main.082ad94c.js"
+  ]
+}
