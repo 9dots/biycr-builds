@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/css/main.b9288ea7.css",
-    "main.js": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/js/main.a5b6a797.js",
+    "main.css": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/css/main.99b5432e.css",
+    "main.js": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/js/main.cb3fb12e.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/js/787.0650f90e.chunk.js",
     "index.html": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/index.html",
-    "main.b9288ea7.css.map": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/css/main.b9288ea7.css.map",
-    "main.a5b6a797.js.map": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/js/main.a5b6a797.js.map",
+    "main.99b5432e.css.map": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/css/main.99b5432e.css.map",
+    "main.cb3fb12e.js.map": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/js/main.cb3fb12e.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/one-click-mvp-plus-platform-bar/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9288ea7.css",
-    "static/js/main.a5b6a797.js"
+    "static/css/main.99b5432e.css",
+    "static/js/main.cb3fb12e.js"
   ]
 }
