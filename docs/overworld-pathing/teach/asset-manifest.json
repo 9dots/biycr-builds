@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/overworld-pathing/teach/static/css/main.fbec88ea.css",
+    "main.js": "/biycr-builds/overworld-pathing/teach/static/js/main.994ea8ab.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/overworld-pathing/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/overworld-pathing/teach/index.html",
+    "main.fbec88ea.css.map": "/biycr-builds/overworld-pathing/teach/static/css/main.fbec88ea.css.map",
+    "main.994ea8ab.js.map": "/biycr-builds/overworld-pathing/teach/static/js/main.994ea8ab.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/overworld-pathing/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbec88ea.css",
+    "static/js/main.994ea8ab.js"
+  ]
+}
