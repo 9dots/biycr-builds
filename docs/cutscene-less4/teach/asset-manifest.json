@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/cutscene-less4/teach/static/css/main.fbec88ea.css",
+    "main.js": "/biycr-builds/cutscene-less4/teach/static/js/main.3ce1458a.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/cutscene-less4/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/cutscene-less4/teach/index.html",
+    "main.fbec88ea.css.map": "/biycr-builds/cutscene-less4/teach/static/css/main.fbec88ea.css.map",
+    "main.3ce1458a.js.map": "/biycr-builds/cutscene-less4/teach/static/js/main.3ce1458a.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/cutscene-less4/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbec88ea.css",
+    "static/js/main.3ce1458a.js"
+  ]
+}
