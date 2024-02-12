@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/static/css/main.cdf48bd7.css",
+    "main.js": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/static/js/main.99d26d2b.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/index.html",
+    "main.cdf48bd7.css.map": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/static/css/main.cdf48bd7.css.map",
+    "main.99d26d2b.js.map": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/static/js/main.99d26d2b.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/47ae35795aca5cb42efce6765a61cb5728780660/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf48bd7.css",
+    "static/js/main.99d26d2b.js"
+  ]
+}
