@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/biycr-builds/one-click-thumb-slider/teach/static/css/main.7259b445.css",
-    "main.js": "/biycr-builds/one-click-thumb-slider/teach/static/js/main.09f8545a.js",
+    "main.css": "/biycr-builds/one-click-thumb-slider/teach/static/css/main.8e71048f.css",
+    "main.js": "/biycr-builds/one-click-thumb-slider/teach/static/js/main.5ed1783e.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/one-click-thumb-slider/teach/static/js/787.0650f90e.chunk.js",
     "index.html": "/biycr-builds/one-click-thumb-slider/teach/index.html",
-    "main.7259b445.css.map": "/biycr-builds/one-click-thumb-slider/teach/static/css/main.7259b445.css.map",
-    "main.09f8545a.js.map": "/biycr-builds/one-click-thumb-slider/teach/static/js/main.09f8545a.js.map",
+    "main.8e71048f.css.map": "/biycr-builds/one-click-thumb-slider/teach/static/css/main.8e71048f.css.map",
+    "main.5ed1783e.js.map": "/biycr-builds/one-click-thumb-slider/teach/static/js/main.5ed1783e.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/one-click-thumb-slider/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7259b445.css",
-    "static/js/main.09f8545a.js"
+    "static/css/main.8e71048f.css",
+    "static/js/main.5ed1783e.js"
   ]
 }
