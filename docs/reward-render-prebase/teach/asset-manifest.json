@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/reward-render-prebase/teach/static/css/main.5135004d.css",
+    "main.js": "/biycr-builds/reward-render-prebase/teach/static/js/main.6c5e2f0c.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/reward-render-prebase/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/reward-render-prebase/teach/index.html",
+    "main.5135004d.css.map": "/biycr-builds/reward-render-prebase/teach/static/css/main.5135004d.css.map",
+    "main.6c5e2f0c.js.map": "/biycr-builds/reward-render-prebase/teach/static/js/main.6c5e2f0c.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/reward-render-prebase/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5135004d.css",
+    "static/js/main.6c5e2f0c.js"
+  ]
+}
