@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/static/css/main.a2730f7e.css",
+    "main.js": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/static/js/main.b7d4be6c.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/static/js/787.0650f90e.chunk.js",
+    "index.html": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/index.html",
+    "main.a2730f7e.css.map": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/static/css/main.a2730f7e.css.map",
+    "main.b7d4be6c.js.map": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/static/js/main.b7d4be6c.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/2024-02-23-pilot-ready-frankenbuild/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2730f7e.css",
+    "static/js/main.b7d4be6c.js"
+  ]
+}
