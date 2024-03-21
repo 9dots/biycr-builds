@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/css/main.7b6f6020.css",
+    "main.js": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/js/main.bddd9579.js",
+    "static/js/787.0650f90e.chunk.js": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/js/787.0650f90e.chunk.js",
+    "static/media/test-deck.png": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/media/test-deck.aacb4b3dbe99afe40b31.png",
+    "index.html": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/index.html",
+    "main.7b6f6020.css.map": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/css/main.7b6f6020.css.map",
+    "main.bddd9579.js.map": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/js/main.bddd9579.js.map",
+    "787.0650f90e.chunk.js.map": "/biycr-builds/7b62a6cef0e9c45ab826a95bb3d3e3c01f30177a/teach/static/js/787.0650f90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6f6020.css",
+    "static/js/main.bddd9579.js"
+  ]
+}
