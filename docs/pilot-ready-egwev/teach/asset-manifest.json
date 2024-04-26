@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/biycr-builds/pilot-ready-egwev/teach/static/css/main.1ca8d6e4.css",
-    "main.js": "/biycr-builds/pilot-ready-egwev/teach/static/js/main.806996bb.js",
+    "main.js": "/biycr-builds/pilot-ready-egwev/teach/static/js/main.796cfb9d.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/pilot-ready-egwev/teach/static/js/787.0650f90e.chunk.js",
     "static/media/pilot-lesson-5_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-5_thumbnails.aa4a7e51905613d64ef0.jpeg",
     "static/media/pilot-lesson-8_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-8_thumbnails.014d06aa41260977d613.jpeg",
+    "static/media/pilot-lesson-7-v2_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-7-v2_thumbnails.78067058f97b258f8a65.jpeg",
     "static/media/pilot-lesson-7_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-7_thumbnails.c088f348585e991a862d.jpeg",
     "static/media/pilot-lesson-6_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-6_thumbnails.bdbd27408df6586decd3.jpeg",
     "static/media/pilot-lesson-10_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-10_thumbnails.a0bb357b17e2a057bb41.jpeg",
@@ -16,11 +17,11 @@
     "static/media/pilot-lesson-1_thumbnails.jpeg": "/biycr-builds/pilot-ready-egwev/teach/static/media/pilot-lesson-1_thumbnails.1cde03e26eb82e747d25.jpeg",
     "index.html": "/biycr-builds/pilot-ready-egwev/teach/index.html",
     "main.1ca8d6e4.css.map": "/biycr-builds/pilot-ready-egwev/teach/static/css/main.1ca8d6e4.css.map",
-    "main.806996bb.js.map": "/biycr-builds/pilot-ready-egwev/teach/static/js/main.806996bb.js.map",
+    "main.796cfb9d.js.map": "/biycr-builds/pilot-ready-egwev/teach/static/js/main.796cfb9d.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/pilot-ready-egwev/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ca8d6e4.css",
-    "static/js/main.806996bb.js"
+    "static/js/main.796cfb9d.js"
   ]
 }
