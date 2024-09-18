@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/css/main.4dc11366.css",
-    "main.js": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/js/main.d827db6f.js",
+    "main.js": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/js/main.ef54de0b.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/js/787.0650f90e.chunk.js",
     "static/media/pilot-lesson-5_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/media/pilot-lesson-5_thumbnails.aa4a7e51905613d64ef0.jpeg",
     "static/media/pilot-lesson-8_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/media/pilot-lesson-8_thumbnails.014d06aa41260977d613.jpeg",
@@ -22,11 +22,11 @@
     "static/media/sept-2024-pilot-lesson-1_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/media/sept-2024-pilot-lesson-1_thumbnails.d57067ffccaf764cbd91.jpeg",
     "index.html": "/biycr-builds/playtest/2024-sep-lessons-re/teach/index.html",
     "main.4dc11366.css.map": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/css/main.4dc11366.css.map",
-    "main.d827db6f.js.map": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/js/main.d827db6f.js.map",
+    "main.ef54de0b.js.map": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/js/main.ef54de0b.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/playtest/2024-sep-lessons-re/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dc11366.css",
-    "static/js/main.d827db6f.js"
+    "static/js/main.ef54de0b.js"
   ]
 }
