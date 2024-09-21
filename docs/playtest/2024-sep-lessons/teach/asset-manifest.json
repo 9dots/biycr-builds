@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/biycr-builds/playtest/2024-sep-lessons/teach/static/css/main.4dc11366.css",
-    "main.js": "/biycr-builds/playtest/2024-sep-lessons/teach/static/js/main.32d06cfe.js",
+    "main.js": "/biycr-builds/playtest/2024-sep-lessons/teach/static/js/main.54a5e35d.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/playtest/2024-sep-lessons/teach/static/js/787.0650f90e.chunk.js",
     "static/media/pilot-lesson-5_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/pilot-lesson-5_thumbnails.aa4a7e51905613d64ef0.jpeg",
     "static/media/pilot-lesson-8_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/pilot-lesson-8_thumbnails.014d06aa41260977d613.jpeg",
@@ -20,14 +20,14 @@
     "static/media/sept-2024-pilot-lesson-1-v4_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/sept-2024-pilot-lesson-1-v4_thumbnails.0f113707b6c43eee7472.jpeg",
     "static/media/sept-2024-pilot-lesson-1-v2_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/sept-2024-pilot-lesson-1-v2_thumbnails.bfd26fd1caf6c3951b9c.jpeg",
     "static/media/sept-2024-pilot-lesson-1_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/sept-2024-pilot-lesson-1_thumbnails.d57067ffccaf764cbd91.jpeg",
-    "static/media/sept-2024-pilot-lesson-1-v3_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/sept-2024-pilot-lesson-1-v3_thumbnails.57c5614ddfa6a9d80ecb.jpeg",
+    "static/media/sept-2024-pilot-lesson-1-v3_thumbnails.jpeg": "/biycr-builds/playtest/2024-sep-lessons/teach/static/media/sept-2024-pilot-lesson-1-v3_thumbnails.d4728d38a818bd99ff9c.jpeg",
     "index.html": "/biycr-builds/playtest/2024-sep-lessons/teach/index.html",
     "main.4dc11366.css.map": "/biycr-builds/playtest/2024-sep-lessons/teach/static/css/main.4dc11366.css.map",
-    "main.32d06cfe.js.map": "/biycr-builds/playtest/2024-sep-lessons/teach/static/js/main.32d06cfe.js.map",
+    "main.54a5e35d.js.map": "/biycr-builds/playtest/2024-sep-lessons/teach/static/js/main.54a5e35d.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/playtest/2024-sep-lessons/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dc11366.css",
-    "static/js/main.32d06cfe.js"
+    "static/js/main.54a5e35d.js"
   ]
 }
