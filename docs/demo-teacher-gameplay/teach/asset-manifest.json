@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/biycr-builds/demo-teacher-gameplay/teach/static/css/main.9b575099.css",
-    "main.js": "/biycr-builds/demo-teacher-gameplay/teach/static/js/main.7a858ce1.js",
+    "main.css": "/biycr-builds/demo-teacher-gameplay/teach/static/css/main.1c6f1de4.css",
+    "main.js": "/biycr-builds/demo-teacher-gameplay/teach/static/js/main.1df21895.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/demo-teacher-gameplay/teach/static/js/787.0650f90e.chunk.js",
     "static/media/pilot-lesson-5_thumbnails.jpeg": "/biycr-builds/demo-teacher-gameplay/teach/static/media/pilot-lesson-5_thumbnails.aa4a7e51905613d64ef0.jpeg",
     "static/media/pilot-lesson-8_thumbnails.jpeg": "/biycr-builds/demo-teacher-gameplay/teach/static/media/pilot-lesson-8_thumbnails.014d06aa41260977d613.jpeg",
@@ -22,12 +22,12 @@
     "static/media/sept-2024-pilot-lesson-1_thumbnails.jpeg": "/biycr-builds/demo-teacher-gameplay/teach/static/media/sept-2024-pilot-lesson-1_thumbnails.d57067ffccaf764cbd91.jpeg",
     "static/media/sept-2024-pilot-lesson-1-v3_thumbnails.jpeg": "/biycr-builds/demo-teacher-gameplay/teach/static/media/sept-2024-pilot-lesson-1-v3_thumbnails.d4728d38a818bd99ff9c.jpeg",
     "index.html": "/biycr-builds/demo-teacher-gameplay/teach/index.html",
-    "main.9b575099.css.map": "/biycr-builds/demo-teacher-gameplay/teach/static/css/main.9b575099.css.map",
-    "main.7a858ce1.js.map": "/biycr-builds/demo-teacher-gameplay/teach/static/js/main.7a858ce1.js.map",
+    "main.1c6f1de4.css.map": "/biycr-builds/demo-teacher-gameplay/teach/static/css/main.1c6f1de4.css.map",
+    "main.1df21895.js.map": "/biycr-builds/demo-teacher-gameplay/teach/static/js/main.1df21895.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/demo-teacher-gameplay/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b575099.css",
-    "static/js/main.7a858ce1.js"
+    "static/css/main.1c6f1de4.css",
+    "static/js/main.1df21895.js"
   ]
 }
