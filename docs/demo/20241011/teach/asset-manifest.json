@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/biycr-builds/demo/20241011/teach/static/css/main.cd65236d.css",
-    "main.js": "/biycr-builds/demo/20241011/teach/static/js/main.ad80f23a.js",
+    "main.css": "/biycr-builds/demo/20241011/teach/static/css/main.6032e9c1.css",
+    "main.js": "/biycr-builds/demo/20241011/teach/static/js/main.badd58fb.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/demo/20241011/teach/static/js/787.0650f90e.chunk.js",
     "static/media/pilot-lesson-5_thumbnails.jpeg": "/biycr-builds/demo/20241011/teach/static/media/pilot-lesson-5_thumbnails.aa4a7e51905613d64ef0.jpeg",
     "static/media/pilot-lesson-8_thumbnails.jpeg": "/biycr-builds/demo/20241011/teach/static/media/pilot-lesson-8_thumbnails.014d06aa41260977d613.jpeg",
@@ -22,12 +22,12 @@
     "static/media/sept-2024-pilot-lesson-1_thumbnails.jpeg": "/biycr-builds/demo/20241011/teach/static/media/sept-2024-pilot-lesson-1_thumbnails.d57067ffccaf764cbd91.jpeg",
     "static/media/sept-2024-pilot-lesson-1-v3_thumbnails.jpeg": "/biycr-builds/demo/20241011/teach/static/media/sept-2024-pilot-lesson-1-v3_thumbnails.d4728d38a818bd99ff9c.jpeg",
     "index.html": "/biycr-builds/demo/20241011/teach/index.html",
-    "main.cd65236d.css.map": "/biycr-builds/demo/20241011/teach/static/css/main.cd65236d.css.map",
-    "main.ad80f23a.js.map": "/biycr-builds/demo/20241011/teach/static/js/main.ad80f23a.js.map",
+    "main.6032e9c1.css.map": "/biycr-builds/demo/20241011/teach/static/css/main.6032e9c1.css.map",
+    "main.badd58fb.js.map": "/biycr-builds/demo/20241011/teach/static/js/main.badd58fb.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/demo/20241011/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd65236d.css",
-    "static/js/main.ad80f23a.js"
+    "static/css/main.6032e9c1.css",
+    "static/js/main.badd58fb.js"
   ]
 }
