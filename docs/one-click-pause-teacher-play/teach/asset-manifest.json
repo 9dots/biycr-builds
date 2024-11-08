@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/biycr-builds/one-click-pause-teacher-play/teach/static/css/main.0524f054.css",
-    "main.js": "/biycr-builds/one-click-pause-teacher-play/teach/static/js/main.f024861e.js",
+    "main.css": "/biycr-builds/one-click-pause-teacher-play/teach/static/css/main.d4e8ceba.css",
+    "main.js": "/biycr-builds/one-click-pause-teacher-play/teach/static/js/main.4717a47b.js",
     "static/js/787.0650f90e.chunk.js": "/biycr-builds/one-click-pause-teacher-play/teach/static/js/787.0650f90e.chunk.js",
     "static/media/state_YOU.gif": "/biycr-builds/one-click-pause-teacher-play/teach/static/media/state_YOU.3d1cdcbfb0591a69b87e.gif",
     "static/media/state_WIN.gif": "/biycr-builds/one-click-pause-teacher-play/teach/static/media/state_WIN.482ea09074262653f523.gif",
@@ -44,12 +44,12 @@
     "static/media/oct-2024-txp-l1_thumbnails.jpeg": "/biycr-builds/one-click-pause-teacher-play/teach/static/media/oct-2024-txp-l1_thumbnails.3eec5151dda0637cb1e8.jpeg",
     "static/media/state_DEFEAT.gif": "/biycr-builds/one-click-pause-teacher-play/teach/static/media/state_DEFEAT.8f437d132afd935803fb.gif",
     "index.html": "/biycr-builds/one-click-pause-teacher-play/teach/index.html",
-    "main.0524f054.css.map": "/biycr-builds/one-click-pause-teacher-play/teach/static/css/main.0524f054.css.map",
-    "main.f024861e.js.map": "/biycr-builds/one-click-pause-teacher-play/teach/static/js/main.f024861e.js.map",
+    "main.d4e8ceba.css.map": "/biycr-builds/one-click-pause-teacher-play/teach/static/css/main.d4e8ceba.css.map",
+    "main.4717a47b.js.map": "/biycr-builds/one-click-pause-teacher-play/teach/static/js/main.4717a47b.js.map",
     "787.0650f90e.chunk.js.map": "/biycr-builds/one-click-pause-teacher-play/teach/static/js/787.0650f90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0524f054.css",
-    "static/js/main.f024861e.js"
+    "static/css/main.d4e8ceba.css",
+    "static/js/main.4717a47b.js"
   ]
 }
